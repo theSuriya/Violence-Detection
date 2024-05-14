@@ -38,8 +38,7 @@ To run the notebook, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/violence-detection-notebook.git
-    cd violence-detection-notebook
+    git clone https://github.com/theSuriya/Violence-Detection
     ```
 
 2. Create a virtual environment and activate it:
