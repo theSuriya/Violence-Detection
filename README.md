@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook that implements a violence detection
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Notebook and Dataset](#KaggleNotebookandDatasetLink)
+- [Notebook and Dataset](#Dataset)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,10 +20,10 @@ This repository contains a Jupyter Notebook that implements a violence detection
 
 The violence detection model aims to identify violent activities in videos. This model leverages deep learning techniques for feature extraction and sequence modeling to detect violent behavior effectively.
 
-## Kaggle Notebook and Dataset Link
+## Dataset
 
-Here is a notebook that I contributed to the Kaggle community for violence detection Dataset: [Notebook](https://www.kaggle.com/code/thesuriya/violence-detection)
-[Dataset](https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset)
+- Here is a notebook that I contributed to the Kaggle community for violence detection Dataset: [Notebook](https://www.kaggle.com/code/thesuriya/violence-detection)
+- Dataset that i used for traininng a model[Dataset](https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset)
 
 ## Features
 
