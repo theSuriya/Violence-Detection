@@ -41,26 +41,7 @@ To run the notebook, follow these steps:
     git clone https://github.com/theSuriya/Violence-Detection
     ```
 
-2. Create a virtual environment and activate it:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. required packages:
-    ```bash
-    !pip install opencv-python
-    !pip tensorflow
-    !pip numpy
-    !pip tqdm
-    ```
-
-4. Launch Jupyter Notebook:
-    ```bash
-    jupyter notebook
-    ```
-
-5. Open the notebook `violence_detection.ipynb` in the Jupyter interface.
+2. Open the notebook `violence_detection.ipynb` in the Google Colab or Kaggle Notebook to leverage GPU.
 
 ## Usage
 
